@@ -1,4 +1,4 @@
-Eclipse Cloe
+![Eclipse Incubation](docs/incubation-logo.svg) Eclipse Cloe
 ============
 
 Cloe empowers developers of automated-driving software components by providing
